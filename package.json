@@ -1,0 +1,13 @@
+{
+  "name": "nuova-app-android",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build": "echo Build completata"
+  },
+  "dependencies": {
+    "@capacitor/android": "^7.0.0",
+    "@capacitor/cli": "^7.0.0",
+    "@capacitor/core": "^7.0.0"
+  }
+}
